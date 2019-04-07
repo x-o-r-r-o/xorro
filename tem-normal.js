@@ -91,7 +91,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 	
 $('#bg-image').backstretch([
-"https://resimag.com/p1/186469841ea.jpeg"	
+"https://i.imgyukle.com/2019/04/07/Anomx.jpg"	
 
 
 	], {duration: 7000, fade: 500});
